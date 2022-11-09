@@ -1,5 +1,3 @@
-# ROVTuningGuide
-
 # Table of Contents
 [Arduino Setup](#arduino-setup)  
 [UI Setup](#ui-setup)  
